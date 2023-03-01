@@ -1,4 +1,4 @@
-public class computerXDividedByY {
+public class computeXDividedByY {
   public static long divide(long x, long y) {
     /*
     compute their division using only shifting operators.
